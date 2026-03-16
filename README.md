@@ -1,38 +1,43 @@
 <h1 align="center">
-Hi there 👋 I'm <a href="https://dev.recodehive.com/link">Tien Long</a>
+Hi 👋, I'm Tien Long
 </h1>
 
 <p align="center">
-Software Engineer | .NET Developer
+<img src="https://readme-typing-svg.herokuapp.com/?lines=.NET%20Software%20Engineer;Backend%20Developer;Fullstack%20Developer;Microservices%20Architecture;Clean%20Architecture%20Advocate&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+<a href="https://tienlongdev.com"><img src="https://img.shields.io/badge/Website-tienlongdev.com-blue?style=for-the-badge"/></a>
+<a href="https://tienlongdev.com/webs"><img src="https://img.shields.io/badge/Projects-My%20Websites-green?style=for-the-badge"/></a>
+<a href="https://tienlongdev.com/ebooks"><img src="https://img.shields.io/badge/Ebooks-Learning%20Resources-orange?style=for-the-badge"/></a>
 </p>
 
 ---
-## 👨🏻‍💻 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png"/>
+# 👨🏻‍💻 About Me
 
-I'm a **.NET Software Engineer with 4+ years of experience** building scalable backend systems, APIs, and enterprise applications.
+<img align="right" width="300" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png"/>
 
-I enjoy designing **high-performance architectures and distributed systems** using modern engineering practices such as **DDD, Clean Architecture, CQRS, and MediatR**.
+I'm a **.NET Software Engineer with 4+ years of experience** building scalable backend systems and enterprise applications.
 
-Outside of work, I share knowledge by building developer tools, creating learning resources, and writing technical content.
+💡 I focus on designing **high-performance APIs, microservices architectures and distributed systems**.
 
-### 🌐 My Platforms
+⚙️ I apply modern engineering principles such as:
+
+* **Domain-Driven Design (DDD)**
+* **Clean Architecture**
+* **CQRS**
+* **MediatR**
+
+🚀 I also share knowledge through **developer tools, websites and technical ebooks**.
+
+---
+
+# 🌐 My Platforms
 
 * 🌍 **Website:** https://tienlongdev.com
-* 🚀 **Projects & Websites:** https://tienlongdev.com/webs
-* 📚 **Ebooks & Learning Resources:** https://tienlongdev.com/ebooks
-
-### 🚀 Key Responsibilities
-
-* Design scalable system architecture using **DDD, Clean Architecture, CQRS**
-* Build **RESTful APIs and backend services with ASP.NET Core**
-* Design and optimize **database schemas**
-* Implement **real-time systems with SignalR**
-* Build **background jobs using Hangfire | Windows Services | Quartz**
-* Integrate external systems via **Webhooks**
-* Implement **JWT authentication and API security**
-* Set up **CI/CD pipelines with Jenkins**
+* 🚀 **Projects:** https://tienlongdev.com/webs
+* 📚 **Ebooks:** https://tienlongdev.com/ebooks
 
 ---
 
@@ -41,53 +46,31 @@ Outside of work, I share knowledge by building developer tools, creating learnin
 ### 💻 Languages
 
 <p>
-<img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=cs,js,ts"/>
 </p>
 
 ### 🎨 Frontend
 
 <p>
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css"/>
 </p>
 
 ### ⚙️ Backend
 
 <p>
-<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Entity%20Framework-512BD4?logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dapper-FF6F00"/>
+<img src="https://skillicons.dev/icons?i=dotnet"/>
 </p>
 
 ### 🗄 Database
 
 <p>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis"/>
 </p>
 
-### 📡 Messaging
+### 🚀 DevOps
 
 <p>
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white"/>
-</p>
-
-### 🚀 DevOps & Tools
-
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=docker,jenkins,git"/>
 </p>
 
 ---
@@ -95,21 +78,31 @@ Outside of work, I share knowledge by building developer tools, creating learnin
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tienlongdev&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tienlongdev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=tienlongdev&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienlongdev&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🐍 Contribution Graph
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=tienlongdev&theme=tokyonight"/>
+<img src="https://github.com/tienlongdev/tienlongdev/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
 
-# 📈 Most Used Languages
+# 🚀 Profile Views
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienlongdev&layout=compact&theme=tokyonight"/>
+<img src="https://komarev.com/ghpvc/?username=tienlongdev&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
