@@ -12,9 +12,35 @@ Software Engineer | .NET Developer
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png"/>
 
-* 💻 Software Engineer
-* ⚡ Check my **[Website](https://tienlongdev.com/webs)**
-* 🌱 Read my **[eBook](https://tienlongdev.com/books)**
+I'm a **.NET Software Engineer with 4+ years of experience** in designing and developing scalable backend systems and enterprise applications.
+
+I specialize in building **high-performance APIs, microservices architectures, and distributed systems** using modern development practices.
+
+My engineering approach focuses on applying software architecture principles such as:
+
+* **Domain-Driven Design (DDD)**
+* **Clean Architecture**
+* **CQRS**
+* **Mediator pattern (MediatR)**
+
+to build maintainable and scalable systems.
+
+I enjoy solving complex engineering problems and continuously learning new technologies to improve system performance and development efficiency.
+
+Alongside strong **team collaboration skills**, I also work effectively **independently**, managing and delivering tasks efficiently when required.
+
+### 🚀 Responsibilities
+
+* Design system architecture using **DDD, Clean Architecture, CQRS, MediatR**
+* Define coding conventions and refactor legacy code
+* Design **database schemas** and implement backend services
+* Develop **RESTful APIs** with **Swagger documentation**
+* Deploy applications on **Windows Server using IIS or Azure Cloud**
+* Build background processing systems using **Hangfire or Windows Services**
+* Implement **real-time features with SignalR**
+* Integrate external systems via **Webhooks (Azure App Register, Google, Zalo)**
+* Apply security best practices such as **JWT authentication, authorization, and data encryption**
+* Build **CI/CD pipelines with Jenkins**
 
 ---
 
