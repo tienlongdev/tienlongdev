@@ -7,9 +7,15 @@ Hi there 👋 I'm <a href="https://tienlongdev.com">Tien Long</a>
 </p>
 
 <p align="center">
-<i>"No need to be better than others, just be better than who you were yesterday."</i>  
-<br/>
-<b>"Không cần hơn ai khác, chỉ cần giỏi hơn chính bản thân mình của ngày hôm qua."</b>
+  <b>
+    ✨ <span style="color:#00FFFF">Be better than yesterday.</span> ✨
+  </b>
+</p>
+
+<p align="center">
+  <i>
+    🚀 Không cần hơn ai khác, chỉ cần giỏi hơn chính mình của ngày hôm qua.
+  </i>
 </p>
 
 <p align="center">
