@@ -3,7 +3,7 @@ Hi there 👋 I'm <a href="https://dev.recodehive.com/link">Tien Long</a>
 </h1>
 
 <p align="center">
-Software Engineer • .NET Developer • React Developer
+Software Engineer | .NET Developer
 </p>
 
 ---
