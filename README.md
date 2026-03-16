@@ -7,40 +7,32 @@ Software Engineer | .NET Developer
 </p>
 
 ---
-
 ## 👨🏻‍💻 About Me
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png"/>
 
-I'm a **.NET Software Engineer with 4+ years of experience** in designing and developing scalable backend systems and enterprise applications.
+I'm a **.NET Software Engineer with 4+ years of experience** building scalable backend systems, APIs, and enterprise applications.
 
-I specialize in building **high-performance APIs, microservices architectures, and distributed systems** using modern development practices.
+I enjoy designing **high-performance architectures and distributed systems** using modern engineering practices such as **DDD, Clean Architecture, CQRS, and MediatR**.
 
-My engineering approach focuses on applying software architecture principles such as:
+Outside of work, I share knowledge by building developer tools, creating learning resources, and writing technical content.
 
-* **Domain-Driven Design (DDD)**
-* **Clean Architecture**
-* **CQRS**
-* **Mediator pattern (MediatR)**
+### 🌐 My Platforms
 
-to build maintainable and scalable systems.
+* 🌍 **Website:** https://tienlongdev.com
+* 🚀 **Projects & Websites:** https://tienlongdev.com/webs
+* 📚 **Ebooks & Learning Resources:** https://tienlongdev.com/ebooks
 
-I enjoy solving complex engineering problems and continuously learning new technologies to improve system performance and development efficiency.
+### 🚀 Key Responsibilities
 
-Alongside strong **team collaboration skills**, I also work effectively **independently**, managing and delivering tasks efficiently when required.
-
-### 🚀 Responsibilities
-
-* Design system architecture using **DDD, Clean Architecture, CQRS, MediatR**
-* Define coding conventions and refactor legacy code
-* Design **database schemas** and implement backend services
-* Develop **RESTful APIs** with **Swagger documentation**
-* Deploy applications on **Windows Server using IIS or Azure Cloud**
-* Build background processing systems using **Hangfire or Windows Services**
-* Implement **real-time features with SignalR**
-* Integrate external systems via **Webhooks (Azure App Register, Google, Zalo)**
-* Apply security best practices such as **JWT authentication, authorization, and data encryption**
-* Build **CI/CD pipelines with Jenkins**
+* Design scalable system architecture using **DDD, Clean Architecture, CQRS**
+* Build **RESTful APIs and backend services with ASP.NET Core**
+* Design and optimize **database schemas**
+* Implement **real-time systems with SignalR**
+* Build **background jobs using Hangfire / Windows Services**
+* Integrate external systems via **Webhooks**
+* Implement **JWT authentication and API security**
+* Set up **CI/CD pipelines with Jenkins**
 
 ---
 
