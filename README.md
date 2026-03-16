@@ -2,34 +2,7 @@
 Hi there 👋 I'm <a href="https://tienlongdev.com">Tien Long</a>
 </h1>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/MINDSET-CONTINUOUS%20IMPROVEMENT-8A2BE2?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-✨ <b>Be better than yesterday.</b> ✨  
-🚀 <i>Không cần hơn ai khác, chỉ cần giỏi hơn chính mình của ngày hôm qua.</i>
-
-</p>
-
-<p align="center">
-
-<a href="https://tienlongdev.com">
-<img src="https://img.shields.io/badge/WEBSITE-TIENLONGDEV.COM-0A66C2?style=for-the-badge"/>
-</a>
-
-<a href="https://tienlongdev.com/webs">
-<img src="https://img.shields.io/badge/PROJECTS-WEBSITES-84cc16?style=for-the-badge"/>
-</a>
-
-<a href="https://tienlongdev.com/ebooks">
-<img src="https://img.shields.io/badge/EBOOKS-LEARNING%20RESOURCES-f97316?style=for-the-badge"/>
-</a>
-
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/Mindset-Continuous%20Improvement-8A2BE2?style=for-the-badge"/> </p> <p align="center"> <b> ✨ <span style="color:#00FFFF">Be better than yesterday.</span> ✨ </b> </p> <p align="center"> <i> 🚀 Không cần hơn ai khác, chỉ cần giỏi hơn chính mình của ngày hôm qua. </i> </p> <p align="center"> <a href="https://tienlongdev.com"> <img src="https://img.shields.io/badge/Website-tienlongdev.com-blue?style=for-the-badge"/> </a> <a href="https://tienlongdev.com/webs"> <img src="https://img.shields.io/badge/Projects-Websites-green?style=for-the-badge"/> </a> <a href="https://tienlongdev.com/ebooks"> <img src="https://img.shields.io/badge/Ebooks-Learning%20Resources-orange?style=for-the-badge"/> </a> </p>
 
 ---
 
