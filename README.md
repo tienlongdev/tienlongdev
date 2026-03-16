@@ -7,11 +7,22 @@ Hi there 👋 I'm <a href="https://tienlongdev.com">Tien Long</a>
 </p>
 
 <p align="center">
-<i>"No need to be better than others, just be better than who you were yesterday."</i>  
-<br/>
-<b>"Không cần hơn ai khác, chỉ cần giỏi hơn chính bản thân mình của ngày hôm qua."</b>
+
+<img src="https://img.shields.io/badge/Mindset-Continuous%20Improvement-8A2BE2?style=for-the-badge"/>
+
 </p>
 
+<p align="center">
+<b>
+✨ <span style="color:#00FFFF">Be better than yesterday.</span> ✨
+</b>
+</p>
+
+<p align="center">
+<i>
+🚀 Không cần hơn ai khác, chỉ cần giỏi hơn chính mình của ngày hôm qua.
+</i>
+</p>
 <p align="center">
 <a href="https://tienlongdev.com">
 <img src="https://img.shields.io/badge/Website-tienlongdev.com-blue?style=for-the-badge"/>
