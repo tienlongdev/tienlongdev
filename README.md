@@ -29,7 +29,7 @@ Outside of work, I share knowledge by building developer tools, creating learnin
 * Build **RESTful APIs and backend services with ASP.NET Core**
 * Design and optimize **database schemas**
 * Implement **real-time systems with SignalR**
-* Build **background jobs using Hangfire / Windows Services**
+* Build **background jobs using Hangfire | Windows Services | Quartz**
 * Integrate external systems via **Webhooks**
 * Implement **JWT authentication and API security**
 * Set up **CI/CD pipelines with Jenkins**
